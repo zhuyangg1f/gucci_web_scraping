@@ -1,0 +1,2 @@
+D:\Anaconda\Scripts\scrapy.exe runspider "C:\Users\zhuya\Desktop\crawler\crawler\spiders\gucci_belts.py" -o Log_jiayu.json -t json
+D:\Anaconda\python.exe "C:\Users\zhuya\Desktop\crawler\crawler\SendEmail.py"
